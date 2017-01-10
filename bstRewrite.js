@@ -223,4 +223,7 @@ console.log('The height is:', height)
 
 
 // 3) Write an algorithm to find the third
-//    largest value in a binary search tree.
+//    largest node in a binary search tree.
+
+findMax
+then find max.parent.parnet
